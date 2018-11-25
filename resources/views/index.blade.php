@@ -41,10 +41,10 @@
               <a class="nav-link js-scroll-trigger" href="#portfolio">Accueil</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">Evenements</a>
+              <a class="nav-link js-scroll-trigger" href="event">Evenements</a>
             </li>
              <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">inscription</a>
+              <a class="nav-link js-scroll-trigger" href="inscrit">inscription</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="login">Login</a>

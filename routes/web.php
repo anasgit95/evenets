@@ -15,5 +15,11 @@ Route::get('/', function () {
     return view('index');
 });
 Route::get('login', function () {
-    return view('registre');
+    return view('login');
+});
+Route::get('inscrit', function () {
+    return view('inscription');
+});
+Route::get('event', function () {
+    return view('event');
 });
